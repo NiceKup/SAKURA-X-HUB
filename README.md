@@ -1,6 +1,3 @@
----------COMPUTER AND PHONE SUPPORT!---------
-Copy all the scripts below completely otherwise it won't run / คัดลอกสคริปที่อยู่ด้านล่างทั้งหมดให้ครบนะครับไม่งั้นจะรันไม่ได้ 
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window  = Library.CreateLib("                                    SAKURA X SCRIPT HUB V1                         ", "BloodTheme")
 
